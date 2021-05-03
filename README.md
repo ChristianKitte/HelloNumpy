@@ -1,6 +1,6 @@
-# Data Science SS 21
+# EA 04 - Python for Data Science Exercise
+### Data Science SS 21
 ### Christian Kitte 
-### EA 04 - Python for Data Science Exercise
 
 Eine Übung zu NumPy:
 
